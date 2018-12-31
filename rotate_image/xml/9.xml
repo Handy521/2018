@@ -1,0 +1,26 @@
+<annotation>
+  <folder>rotate</folder>
+  <filename>9</filename>
+  <path>H:/rotate/9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>686</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>533</ymin>
+      <xmax>410</xmax>
+      <ymax>827</ymax>
+    </bndbox>
+  </object>
+</annotation>
