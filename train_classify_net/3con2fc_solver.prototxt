@@ -1,0 +1,14 @@
+net: "3con2fc.prototxt"
+test_iter: 100 #batchsize=test assemble
+test_interval: 2000 #iter 2000 test once
+base_lr: 0.02
+momentum: 0.9
+weight_decay: 0.0005
+lr_policy: "step"
+gamma: 0.5
+stepsize: 20000
+display: 500
+max_iter: 400000
+snapshot: 10000
+snapshot_prefix: "models32/"
+solver_mode: GPU
